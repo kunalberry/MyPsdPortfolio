@@ -1,0 +1,215 @@
+/* Main Css*/
+.container{
+    width:1300px;
+}
+
+/*Section-1 css*/
+ .section-1 {
+            margin: auto;
+            height: 892px;
+            background-image: url(../Images/Fitness.png);
+            background-repeat: no-repeat;
+            position:relative;
+}
+
+.navbar{
+    background-color: transparent;
+}
+.navbar-right {
+	margin-top:60px;
+    margin-right:70px;
+}
+.navbar-right li a{
+    color:#ffffff;
+    margin:12px;
+    padding:15px;
+    display:block;
+}
+.navbar-header li a{
+    color:#fff;    
+    font-size:18px;
+    letter-spacing:5px;
+    position: absolute;
+    top:45px;
+    left:91px;
+}
+.navbar-brand{
+    float: left;
+}
+.navbar-header img{   
+    padding-top:45px;
+    padding-left:50px;
+}
+.first-section{
+    position: absolute;
+    color: #fff;
+    left:115px;
+    top:600px;
+}
+                                /*Ending Of The Section-1*/
+
+/*Starting Section-2*/
+
+.main-1{
+    width:1300px;
+    background-color:#a2ca28;
+    margin: auto;
+}
+.section-2{
+    width:1180px;
+    background-color: #a2ca28;
+    height: 468px;
+    padding-top: 110px;
+    margin:auto;
+}
+  .section-2 .col-md-3 span {
+            font-size: 33px;
+            color: white;
+        }
+ .section-2 .col-md-3 h4 {
+            font-size: 18px;
+            color: white;
+            margin-bottom:30px;
+        }
+ .section-2 .col-md-3 p {
+            padding-bottom: 55px;
+            color: white;
+        }
+.section-2 .col-md-3 a {
+            text-decoration: none;
+            color: white;
+        }
+                                         /* Ending Of The Section-2*/
+
+/*Starting Section-3*/
+
+
+.section-3{
+            width:1180px;
+            background-color:#ffffff;
+        }
+ .section-3 .row{
+            height:395px;
+            text-align: center;
+        }
+.section-3 .row .area-1{
+            margin-top:58px;
+            
+        }
+.section-3 h4{
+            color:#fd634e;
+        }
+
+        .section-3 a{
+            color:#a8ce36;
+        }
+                                    /* Ending Section 3*/
+
+/*Starting Section 4*/
+
+.main-2{
+            background-color:#fd634e;
+            margin:auto;
+            width:1300px;
+        }
+.section-4{
+            width: 1180px;
+            height:1455px;
+        }
+.section-4 .a,.f,.g{
+            background-color: white;
+        }
+        .section-4 h4{
+            padding-top:54px;
+            padding-bottom:12px;
+            padding-left:40px;
+            text-transform: uppercase;
+        }
+        .section-4  h2{
+            text-transform: uppercase;
+            padding-bottom: 41px;
+            padding-left:40px;
+        }
+         .section-4 p{
+            padding-left:40px;
+            padding-bottom:60px;
+        }
+.section-4 .b,.c{
+                color:#ffffff;
+                background-color:#a2ca28;
+            }
+.col-md-8{
+            padding:0px;
+        }
+.col-md-4{
+    padding: 0px;
+}
+
+                                                /*Ending Up Of The Section-4*/
+/*Starting Up Section-5*/
+  .section-5{
+        position:relative;
+        background-color:#0d1119;
+        width:1300px;
+        margin: auto;
+        }      
+        .d{
+            position:absolute;
+            top:144px;
+            text-align:center;
+            color:#fff;    
+        }
+        .section-5 h2{
+            padding-bottom:36px;
+        }
+        .section-5 .d p{
+            padding-left:340px;
+            padding-right:360px;
+            line-height:15px
+        }
+        .section-5 .area-1 h4{
+            color:white;
+        }
+        .section-5 .area-1 p{
+            padding-top:20px;
+            color:#7b8f9f
+        }
+        i{
+           font-size:12px; 
+        }
+        .abc{
+            padding-top:20px; 
+            
+        }
+        .abc i{
+            padding:14px;
+            border-radius:50%;
+            color:#f4f2f2;
+            margin-right:20px
+        }
+        .subsection{
+            width:1180px;
+            margin: auto;
+        }
+        .form-group{
+            padding-left:70px
+        }
+        input{
+            height:50px;
+        }
+        input:placeholder-shown{
+            padding-left:22px;
+        }
+    .row .text1{
+            width: 200px;
+        }
+        .row .text2{
+            width:341px;
+        }
+        button{
+            width:180px;
+            height:50px;
+            color: white;
+            background-color:#a2ca28;
+        }
+                                                /*Ending Up Of Section-5*/
